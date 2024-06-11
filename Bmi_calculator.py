@@ -34,5 +34,5 @@ def main():
     print(f"\nYour BMI is: {bmi:.2f}")
     print(f"Category: {category}")
 
-if __name__ == "__main__":
+if '__name__' == "__main__":
     main()
